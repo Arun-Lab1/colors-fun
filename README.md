@@ -2,7 +2,7 @@
 
 Colors Fun is a vibrant, modern color-sorting puzzle game built with Python and KivyMD. Designed to be relaxing yet mentally engaging, the game challenges players to solve hue and gradient puzzles by arranging scrambled colors into harmonious chromatic sequences.
 
-Whether you are looking for a quick brain exercise or a calming offline gaming experience, Colors Fun offers smooth gameplay tailored for both mobile devices and desktop screens.
+Whether you are looking for a quick brain exercise or a calming offline gaming experience, Colors Fun offers smooth gameplay tailored for Android devices.
 
 ---
 
