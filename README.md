@@ -27,3 +27,13 @@ Language: Python 3
 UI Framework: Kivy & KivyMD
 
 Build Tools: Buildozer (Android compilation)
+
+
+
+
+
+<img width="720" height="1600" alt="Start-Screen-1" src="https://github.com/user-attachments/assets/0cddc498-0763-4a71-b7ac-123ed0744686" />
+<img width="720" height="1600" alt="Menu-Screen-2" src="https://github.com/user-attachments/assets/0666d1b2-6a37-40f6-b785-86f397157356" />
+<img width="720" height="1600" alt="Game-Screen-3" src="https://github.com/user-attachments/assets/ee0b74a4-daf2-48a7-a38d-56320a2e6959" />
+<img width="720" height="1600" alt="Game-Over-4" src="https://github.com/user-attachments/assets/e4493cad-d044-4b96-9ae8-f65449bb9ece" />
+<img width="720" height="1600" alt="Win-Screen-5" src="https://github.com/user-attachments/assets/dad8ee64-0639-4e08-bf0f-0a58674a25d9" />
