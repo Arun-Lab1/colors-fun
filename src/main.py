@@ -117,22 +117,22 @@ class GameScreen(BaseScreen):
             "Red": (0.95, 0.1, 0.1, 1),
             "Green": (0.1, 0.75, 0.2, 1),
             "Blue": (0.05, 0.35, 0.95, 1),
-            "Yellow": (1, 0.9, 0, 1),             # Pure Sun Yellow
-            "Orange": (1, 0.45, 0, 1),            # Deep Flame Orange
-            "Purple": (0.55, 0.1, 0.85, 1),        # Vivid Purple
+            "Yellow": (1, 0.9, 0, 1),             
+            "Orange": (1, 0.45, 0, 1),            
+            "Purple": (0.55, 0.1, 0.85, 1),        
             "Pink": (1, 0.4, 0.7, 1),
-            "Brown": (0.45, 0.2, 0.05, 1),        # Rich Dark Wood Brown
-            "Black": (0.08, 0.08, 0.08, 1),       # Soft Charcoal Black
+            "Brown": (0.45, 0.2, 0.05, 1),        
+            "Black": (0.08, 0.08, 0.08, 1),       
             "White": (0.98, 0.98, 0.98, 1),
             "Gray": (0.5, 0.5, 0.5, 1),
             "Cyan": (0, 0.85, 0.95, 1),
             "Magenta": (0.95, 0, 0.85, 1),
-            "Lime": (0.5, 1, 0, 1),               # Bright Neon Lime
-            "Maroon": (0.45, 0, 0.1, 1),          # Dark Crimson Wine
-            "Navy": (0.02, 0.08, 0.35, 1),        # Very Dark Deep Blue
-            "Olive": (0.4, 0.45, 0.05, 1),        # Deep Muted Olive
+            "Lime": (0.5, 1, 0, 1),               
+            "Maroon": (0.45, 0, 0.1, 1),          
+            "Navy": (0.02, 0.08, 0.35, 1),        
+            "Olive": (0.4, 0.45, 0.05, 1),        
             "Teal": (0, 0.45, 0.45, 1),
-            "Gold": (0.9, 0.68, 0.05, 1),         # Rich Metallic Amber (Distinct from Yellow)
+            "Gold": (0.9, 0.68, 0.05, 1),         
             "Coral": (1, 0.35, 0.25, 1),
 
             # --- MEDIUM EXPANSION (30 Mode) ---
@@ -149,9 +149,9 @@ class GameScreen(BaseScreen):
 
             # --- HARD EXPANSION (40 Mode) ---
             "Mint": (0.35, 0.95, 0.65, 1),
-            "Peach": (1, 0.7, 0.55, 1),           # Warm Soft Peach
-            "Tan": (0.7, 0.5, 0.35, 1),           # Medium Leather Tan
-            "Beige": (0.95, 0.92, 0.75, 1),       # Very Light Warm Cream
+            "Peach": (1, 0.7, 0.55, 1),           
+            "Tan": (0.7, 0.5, 0.35, 1),           
+            "Beige": (0.95, 0.92, 0.75, 1),       
             "Forest Green": (0.05, 0.4, 0.15, 1),
             "Sea Green": (0.2, 0.65, 0.4, 1),
             "Dark Green": (0, 0.25, 0.05, 1),
@@ -164,9 +164,9 @@ class GameScreen(BaseScreen):
             "Deep Pink": (0.95, 0.05, 0.45, 1),
             "Hot Pink": (1, 0.2, 0.65, 1),
             "Tomato": (0.9, 0.25, 0.15, 1),
-            "Wheat": (0.88, 0.78, 0.55, 1),       # Warm Light Grain
+            "Wheat": (0.88, 0.78, 0.55, 1),       
             "Aquamarine": (0.3, 0.95, 0.85, 1),
-            "Chartreuse": (0.7, 0.9, 0.05, 1),    # Yellow-Green Leaf
+            "Chartreuse": (0.7, 0.9, 0.05, 1),    
             "Slate Gray": (0.35, 0.4, 0.45, 1),
             "Dark Blue": (0, 0.1, 0.45, 1),
             "Dark Red": (0.35, 0, 0, 1)
@@ -457,4 +457,4 @@ if __name__ == '__main__':
     ColorGameApp().run()
 
 
-#create by Arun
+# Create by Arun
