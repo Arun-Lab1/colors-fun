@@ -30,7 +30,7 @@ Whether you are looking for a quick brain exercise or a calming offline gaming e
 ## 📥 Downloads & Releases
 
 * **Android:** Download the pre-compiled `.apk` from the official [Releases](../../releases) tab.
-* **itch.io:** Play or download the game on [our itch.io page](https://business-man3.itch.io).
+* **itch.io:** Play or download the game on [our itch.io page](https://arun-lab1.itch.io).
 
 ---
 
